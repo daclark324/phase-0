@@ -37,7 +37,7 @@ Write a handy cheatsheet of the commands you need to commit your changes?
 13. delete branch [IN GITHUB]
 14. Git checkout master
 15. Git fetch origin master
-16. Git merger origin/master
+16. Git merge origin/master
 17. Git branch –d ‘branch_name’
 
 
