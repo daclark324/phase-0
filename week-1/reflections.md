@@ -19,3 +19,27 @@ A shell is a vehicle that executes commands. It can be used both for a command i
 * help: displays helpful information about commands, or commands matching a pattern if specified.
 
 # 1.4 Forking and Cloning Reflection
+
+If I were tasked with writing instructions for a new person on how to create a new repo, fork a repo and clone a repo, I would probably do something similar to the video shown in the lesson as I felt having the visuals of the instructor’s screen was very helpful.
+
+To create a new repo:
+
+* Log into GitHub and go to “Your Profile”
+* Locate the “+” symbol to the left of your profile avatar and click then select “New Repository”
+* Enter the desired name for the repository and adjust any permissions as well as add any desired licenses
+
+To fork a repo:
+
+* Go to the desired repo page on Github
+* Click on the “Fork” button
+* Select your profile, or where you want to fork the repo
+
+To Clone a repo:
+
+* Go to the github page of the repo you want to clone
+* Find the https address for the repo located on the lower right side of the screen
+* From your terminal/command line, make sure you are logged into git then navigate to the folder/directory you want the clone to appear
+* enter “git clone” and paste the repo address and hit return to clone the repo
+
+
+The biggest struggle I’ve had so far with git and github is not knowing 100% if everything is right. I find myself working through exercises with the assumption that no errors mean everything is working and I’m sure to note questions where I have them but I’m wary that things have gone so smoothly!
